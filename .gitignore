@@ -1,0 +1,5 @@
+.idea/*
+.vcpkg/*
+Res/*
+note.txt
+cmake-build*
