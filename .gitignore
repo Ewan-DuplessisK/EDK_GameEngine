@@ -1,5 +1,9 @@
 .idea/*
 .vcpkg/*
-Res/*
+EDK_Engine\Res/*
 note.txt
 cmake-build*
+/EDK_Engine/Res
+/EDK_Engine/x64
+/externals
+/x64
