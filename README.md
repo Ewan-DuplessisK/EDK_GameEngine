@@ -1,5 +1,5 @@
 Simple 3D game engine, based on SDL2 and OpenGL3
 
-This project use VCPKG, the manifest file "vcpkg.json" is at the root
+Unzip in place externals.rar at the root, and Res.rar in EDK_GameEngine/
 
 WIP, not working at all: Data Execution Prevention exceptions on glCreateProgram and glCreateShader
